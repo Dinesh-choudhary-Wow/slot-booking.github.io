@@ -1,2 +1,2 @@
 # slot-booking
-A project in cancer patient bed slot allotment built using PYTHON(flask) framework.
+A projectnamed cancer patient bed slot allotment built using PYTHON(flask) framework.
